@@ -1,0 +1,2 @@
+# Exploring-Trends-In-The-Automotive-Industry-Tableau-Projects-
+The "Exploring Trends In The Automotive Industry" Project Involved The Creation Of An Interactive Tableau Dashboard To Visualize And Analyze Used Car Sales Data. The Primary Objectives Of This Project Were To Provide Valuable Insights Into Sales Trends, Compare Performance Across Various Parameters, And Facilitate Data-Driven Decision-Making.
