@@ -1,4 +1,4 @@
-## Project Title:- Exploring Trends In The Automotive Industry
+## Exploring Trends In The Automotive Industry (Tableau Project) ![icons8-tableau-software-48](https://github.com/RAKESH-RAKHUNDE2024/Exploring-Trends-In-The-Automotive-Industry-Tableau-Projects-/blob/main/tablaue.png)
 
 ## Project Summary:-
 
@@ -41,6 +41,9 @@ Analytical Graphs That Illustrate The Relationships Between Pricing Factors Such
 
 #### 5) Forecasting Of Future Pricing Based On Trends:-
 Predictive Visualizations That Forecast Future Pricing Trends Based On Historical Data And Identified Patterns.
+
+![Tableau Dashboard](https://github.com/RAKESH-RAKHUNDE2024/Exploring-Trends-In-The-Automotive-Industry-Tableau-Projects-/blob/main/Tableau%20Dashboard.png)
+
 
 ## Conclusion:-
 
